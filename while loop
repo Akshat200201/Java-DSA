@@ -1,0 +1,20 @@
+public class while_loop_21 {
+    public static void main(String[] args) {
+        int i=1;
+        System.out.println("using loops");
+         while(i<=3){
+             System.out.println(i);
+             i++;
+         }
+        System.out.println("this keeps executing as long as condition is true");
+
+        while (true) {
+            System.out.println("this is a infinite loop");
+        }
+
+
+
+
+
+    }
+}
