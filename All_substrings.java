@@ -37,8 +37,6 @@
 
 
 
-
-
 public class All_substrings {
 
     public static void print(String s){
