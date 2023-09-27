@@ -30,7 +30,6 @@
 
 
 
-
 public class all_index_of_x {
     public static int[] AllIndexesRecursive(int input[], int x, int start)
     {// If the start index reaches the
