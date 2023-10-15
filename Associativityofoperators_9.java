@@ -7,7 +7,7 @@ public class Associativityofoperators_9 {
         //presisdence and assiciativity
 //         quick quiz
 
-        int x=6;
+        int x=6;  // 
         int y = 1;
         int z=2;
 
